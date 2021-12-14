@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+<item
+    android:title="Add city"
+   >
+    <menu>
+        <item
+            android:id="@+id/addcity"
+            android:title="Add city">
+        </item>
+        <item
+            android:id="@+id/showCities"
+            android:title="Show cities">
+        </item>
+
+
+    </menu>
+</item>
+
+    <item
+        android:id="@+id/show_5dayforecast"
+        android:title="Show 5 day forecast">
+    </item>
+
+    <item
+        android:id="@+id/show5daycity"
+        android:title="Show 5 day city forecast">
+    </item>
+
+
+
+
+</menu>
+
+
