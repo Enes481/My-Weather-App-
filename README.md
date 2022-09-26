@@ -18,4 +18,7 @@ I did it with java.
 
 # Images
 ![image6](https://user-images.githubusercontent.com/54242074/192370191-9f8c4baa-701c-410e-a565-11ee2c0a4c88.png)
+![image2](https://user-images.githubusercontent.com/54242074/192370624-9bb96637-9d5a-46e3-8141-37a9714b0c85.png)
+![image3](https://user-images.githubusercontent.com/54242074/192370618-bb01048e-61dd-4c08-8bb6-e5d1c822eaec.png)
+![image4](https://user-images.githubusercontent.com/54242074/192370917-013d8d21-7800-4f09-89c3-efaafe234188.png)
 
